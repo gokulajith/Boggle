@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.3.5" timestamp="2018-01-25T15:21:31.782">
+<file name="/Users/gokulajith/Documents/CS0320/boggle/src/main/java/edu/brown/cs/gajith/boggle/Board.java">
+<violation beginline="4" endline="4" begincolumn="1" endcolumn="28" rule="UnusedImports" ruleset="Import Statements" package="edu.brown.cs.gajith.boggle" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.Collection'
+</violation>
+<violation beginline="6" endline="6" begincolumn="1" endcolumn="25" rule="UnusedImports" ruleset="Import Statements" package="edu.brown.cs.gajith.boggle" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.util.HashSet'
+</violation>
+<violation beginline="12" endline="12" begincolumn="1" endcolumn="47" rule="UnusedImports" ruleset="Import Statements" package="edu.brown.cs.gajith.boggle" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'com.google.common.collect.ImmutableList'
+</violation>
+</file>
+<file name="/Users/gokulajith/Documents/CS0320/boggle/src/main/java/edu/brown/cs/gajith/boggle/Main.java">
+<violation beginline="62" endline="62" begincolumn="13" endcolumn="20" rule="UnusedLocalVariable" ruleset="Unused Code" package="edu.brown.cs.gajith.boggle" class="Main" method="main" variable="provided" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/unusedcode.html#UnusedLocalVariable" priority="3">
+Avoid unused local variables such as 'provided'.
+</violation>
+<violation beginline="73" endline="73" begincolumn="24" endcolumn="34" rule="AvoidUsingHardCodedIP" ruleset="Basic" package="edu.brown.cs.gajith.boggle" class="Main" method="runSparkServer" externalInfoUrl="https://pmd.github.io/pmd-5.3.5/pmd-java/rules/java/basic.html#AvoidUsingHardCodedIP" priority="3">
+Do not hard code the IP address 
+</violation>
+</file>
+</pmd>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/gokulajith/Documents/CS0320/boggle/src/main/java/edu/brown/cs/gajith/boggle/Board.java">
+<error line="4" column="8" severity="error" message="Unused import - java.util.Collection." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="6" column="8" severity="error" message="Unused import - java.util.HashSet." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="12" column="8" severity="error" message="Unused import - com.google.common.collect.ImmutableList." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+<error line="124" column="27" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="124" column="29" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="124" column="31" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="124" column="38" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="124" column="40" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="124" column="42" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="124" column="49" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="124" column="51" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="124" column="53" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="124" column="60" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="124" column="62" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="124" column="64" severity="error" message="&apos;,&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck"/>
+<error line="125" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="126" column="8" severity="error" message="&apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="127" severity="error" message="&apos;for&apos; have incorrect indentation level 16, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="127" column="5" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+<error line="127" column="20" severity="error" message="&apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="128" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="129" severity="error" message="&apos;for&apos; child have incorrect indentation level 24, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="130" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="131" severity="error" message="&apos;for rcurly&apos; have incorrect indentation level 16, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="133" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="137" severity="error" message="Line is longer than 80 characters (found 90)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+<error line="139" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="140" severity="error" message="&apos;method def&apos; child have incorrect indentation level 10, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="141" severity="error" message="&apos;method def&apos; child have incorrect indentation level 10, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="142" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="143" severity="error" message="&apos;if&apos; have incorrect indentation level 10, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="143" column="13" severity="error" message="&apos;if&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="144" severity="error" message="&apos;if&apos; child have incorrect indentation level 18, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="145" severity="error" message="&apos;if rcurly&apos; have incorrect indentation level 10, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="147" severity="error" message="&apos;for&apos; have incorrect indentation level 18, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="147" column="22" severity="error" message="&apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="147" column="60" severity="error" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="148" severity="error" message="&apos;for&apos; have incorrect indentation level 26, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="148" column="30" severity="error" message="&apos;for&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="148" column="67" severity="error" message="&apos;4&apos; is a magic number." source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+<error line="149" severity="error" message="&apos;if&apos; have incorrect indentation level 34, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="149" column="37" severity="error" message="&apos;if&apos; is not followed by whitespace." source="com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck"/>
+<error line="150" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="151" severity="error" message="&apos;if&apos; child have incorrect indentation level 42, expected level should be 10." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="152" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="153" severity="error" message="&apos;if rcurly&apos; have incorrect indentation level 34, expected level should be 8." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="154" severity="error" message="&apos;for rcurly&apos; have incorrect indentation level 26, expected level should be 6." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="155" severity="error" message="&apos;for rcurly&apos; have incorrect indentation level 18, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="156" severity="error" message="Line has trailing spaces." source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck"/>
+<error line="157" severity="error" message="&apos;method def&apos; child have incorrect indentation level 18, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="158" severity="error" message="&apos;method def&apos; child have incorrect indentation level 18, expected level should be 4." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+<error line="159" severity="error" message="&apos;method def rcurly&apos; have incorrect indentation level 8, expected level should be 2." source="com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck"/>
+</file>
+<file name="/Users/gokulajith/Documents/CS0320/boggle/src/main/java/edu/brown/cs/gajith/boggle/Dictionary.java">
+<error line="35" severity="error" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="/Users/gokulajith/Documents/CS0320/boggle/src/main/java/edu/brown/cs/gajith/boggle/Die.java">
+</file>
+<file name="/Users/gokulajith/Documents/CS0320/boggle/src/main/java/edu/brown/cs/gajith/boggle/Main.java">
+<error line="142" severity="error" message="Line is longer than 80 characters (found 150)." source="com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck"/>
+</file>
+<file name="/Users/gokulajith/Documents/CS0320/boggle/src/main/java/edu/brown/cs/gajith/boggle/package-info.java">
+</file>
+</checkstyle>
